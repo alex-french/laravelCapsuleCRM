@@ -1,5 +1,5 @@
 {
-    "name": "laravel_crm/capsulecrm",
+    "name": "alex-french/capsulecrm",
     "description": "Laravel Package for capsule CRM integration",
     "type": "library",
     "keywords":["laravel","crm","capsulecrm","capsule","laravelcrm","capsule crm","laravel crm"],
